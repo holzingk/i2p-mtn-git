@@ -3,7 +3,7 @@
 Export Scripts for I2P Monotone to Git and related utilities.
 I run them regularly to update the [official git mirrors](https://github.com/i2p).
 
-Docker does not run on modern distributions anymore so I use an old debian release.
+Monotone does not run on modern distributions anymore so I use an old Debian release.
 Might change to Alpine based source build later.
 
 Some history rewrites are necessary to reproduce somehow partially failed exports that already were published.
